@@ -10,7 +10,7 @@ def TFIDF(term, string, collection):
 
     term: the term string
     string: the document string
-    collection: a the whole collection of documents'''
+    collection: the whole collection of documents'''
     from collections import Counter
     import numpy as np
     tf = Counter(string.strip().split()).get(term, 0)

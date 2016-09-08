@@ -20,3 +20,4 @@ def TFIDF(term, string, collection):
         return tf * idf
     except TypeError:
         print 'Term not exist'
+'''blablabla'''

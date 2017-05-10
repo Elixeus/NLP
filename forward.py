@@ -2,8 +2,17 @@ import numpy as np
 
 
 def forward(A, B, observ):
-    """The difficulty lies in aligning the indices t and s. Note that the
-first observation is 0, and the second observation is 1, etc. So in the inner fwd matrix calculation, we should take the value B[s][t-1] instead of B[s][t]"""
+    """Hidden Markov models need to solve 3 fundamental problems:
+1. For a given HMM model M and an observation sequence O, what is the likelihood of P(O|M);
+2. For a given HMM model M and an observation sequence O, what is the best hidden state sequence Q(think of O as words, and Q as syntactic categories);
+3. For an observation sequence O, and the set of hidden states, learn the HMM parameters A and B;
+
+The forward algorithm aims at solving the first of the three fundamental problems of the Hidden Markov Model: given an observation sequence, how to compute its likelihood more efficiently.
+
+The difficulty lies in aligning the indices t and s. Note that the
+first observation is 0, and the second observation is 1, etc. So in the inner fwd matrix calculation, we should take the value B[s][t-1] instead of B[s][t]
+
+Notice that if the sequence is too long, the numbers stored in the matrix might become too small to cause underflow."""
     T = len(observ)
     N = len(B)
     fwd = np.zeros((N+2, T+1))

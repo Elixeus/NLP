@@ -43,20 +43,25 @@ if __name__ == '__main__':
     B = {2 : {1:0.2, 2:0.4, 3:0.4},
          1 : {1:0.5, 2:0.4, 3:0.1}}
     
-#    OBS1 = (3, 3, 1, 1, 2, 2, 3, 1, 3)
-#    OBS2 = (3, 3, 1, 1, 2, 3, 3, 1, 2)
+    OBS1 = (3, 3, 1, 1, 2, 2, 3, 1, 3)
+    OBS2 = (3, 3, 1, 1, 2, 3, 3, 1, 2)
     
-#    RESULT1 = forward(A, B, OBS1)
-#    RESULT2 = forward(A, B, OBS2)
+    RESULT1 = forward(A, B, OBS1)
+    RESULT2 = forward(A, B, OBS2)
 
-    OBS3 = (3, 1, 3)
-    RESULT3 = forward(A, B, OBS3)
+#    OBS3 = (3, 1, 3)
+#    RESULT3 = forward(A, B, OBS3)
 
 #    OBS4 = (3,)
 #    RESULT4 = forward(A, B, OBS4)
     
-#    print RESULT1
-#    print RESULT2
-#    print RESULT1 > RESULT2
-    print RESULT3
+    print RESULT1
+    print RESULT2
+    def print_observation(obs):
+        print 'the observation {} is more likely to happen.'.format(obs)
+    if RESULT1 > RESULT2:
+        print_observation(OBS1)
+    else:
+        print_observation(OBS2)
+#    print RESULT3
 #    print RESULT4

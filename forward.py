@@ -13,7 +13,15 @@ first observation is 0, and the second observation is 1, etc. So in the inner fw
     for t in xrange(2, T+1):
         for s in xrange(1, N+1):
             fwd[s, t] = sum(fwd[s_p, t-1] * A[s_p, s] * B[s][observ[t-1]]
-                            for s_p in xrange(1, N+1))
+                           for s_p in xrange(1, N+1))
+            # print 's: {}'.format(s)
+            # print 't: {}'.format(t)
+            # for s_p in xrange(1, N+1):
+            #     print 'fwd[{}, {}]: {}'.format(s_p, t-1, fwd[s_p, t-1])
+            #     print 'A[{}, {}]: {}'.format(s_p, s, A[s_p, s])
+            #     print 'B[{}, {}]: {}'.format(s, observ[t-1], B[s][observ[t-1]])
+            #     fwd[s, t] += fwd[s_p, t-1] * A[s_p, s] * B[s][observ[t-1]]
+#                print 'fwd[{}, {}]: {}'.format(s, t, fwd[s, t])
     fwd[N+1, T] = sum(fwd[s, T] * A[s, -1] for s in xrange(1, N+1))
     print fwd
     return fwd[-1, T]

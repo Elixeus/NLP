@@ -1,0 +1,1339 @@
+about how: 0.333333333333
+and thats: 0.0357142857143
+all: 0.00473036896878
+this reason: 0.5
+was mistranslated: 0.0909090909091
+Weve yet: 1.0
+100 Greatest: 0.5
+to have: 0.04
+series: 0.00189214758751
+its a: 0.333333333333
+lack: 0.000946073793756
+topped the: 1.0
+the port: 0.0266666666667
+E3 2015: 1.0
+II Takeshi: 0.25
+another difficulty: 1.0
+tire of: 1.0
+wanted it: 1.0
+on USgamers: 0.0714285714286
+PCspecific features: 1.0
+for Best: 0.0833333333333
+RPG on: 0.333333333333
+and a: 0.0357142857143
+Best ActionAdventure: 0.0588235294118
+read This: 1.0
+<s> Anyone: 0.0232558139535
+PC as: 0.111111111111
+2015 and: 0.333333333333
+released during: 0.25
+time.: 0.000946073793756
+send: 0.00189214758751
+1.19: 0.000946073793756
+to: 0.0236518448439
+citing: 0.000946073793756
+praised: 0.000946073793756
+FromSoftware ever: 0.333333333333
+Souls III: 0.0555555555556
+and I: 0.0714285714286
+was released: 0.181818181818
+include: 0.000946073793756
+options you: 1.0
+the most: 0.0133333333333
+1UP.com gave: 1.0
+2012. </s>: 1.0
+was to: 0.0909090909091
+GamesRadars The: 1.0
+updated: 0.000946073793756
+me and: 1.0
+a port: 0.1
+Xbox One: 0.333333333333
+on December: 0.0714285714286
+Dylan Cuthbert: 1.0
+play. </s>: 1.0
+our best: 0.333333333333
+5.4: 0.000946073793756
+on PC.: 0.0714285714286
+to comments: 0.04
+did know: 0.5
+gave the: 0.222222222222
+the Community: 0.0133333333333
+Salt: 0.000946073793756
+Cuthbert and: 1.0
+make everyone: 0.5
+Spy: 0.000946073793756
+magazine named: 1.0
+It was: 0.5
+Gamers: 0.000946073793756
+level: 0.00189214758751
+did: 0.00189214758751
+were expected: 0.333333333333
+Dark Souls: 1.0
+try: 0.000946073793756
+this: 0.00189214758751
+GameZone gave: 1.0
+subtitled Scholar: 1.0
+E3: 0.000946073793756
+Awards: 0.000946073793756
+game the: 0.133333333333
+<s> GameTrailers: 0.0232558139535
+received the: 1.0
+commented: 0.000946073793756
+Double Fine: 1.0
+PlayStation: 0.00283822138127
+off their: 1.0
+expanded: 0.000946073793756
+to say: 0.04
+Hidetaka Miyazaki: 1.0
+Readers Choice: 1.0
+to spite: 0.04
+Electronic Entertainment: 0.666666666667
+report stated: 1.0
+3: 0.00283822138127
+it the: 0.181818181818
+licensed: 0.000946073793756
+most important: 1.0
+second: 0.000946073793756
+titles: 0.000946073793756
+Souls for: 0.0555555555556
+2012 awards: 0.5
+title of: 1.0
+the expanded: 0.0133333333333
+<s> Eurogamer: 0.0232558139535
+port: 0.00283822138127
+even: 0.000946073793756
+be among: 0.5
+released the: 0.25
+rate: 0.000946073793756
+giving: 0.000946073793756
+technical options: 1.0
+released on: 0.25
+current: 0.000946073793756
+the current: 0.0133333333333
+just get: 1.0
+version: 0.00189214758751
+fifth: 0.000946073793756
+Best RPGs: 0.0588235294118
+First: 0.000946073793756
+<s> Amid: 0.0232558139535
+A sequel: 0.5
+port stating: 0.333333333333
+ever: 0.00189214758751
+in April: 0.142857142857
+March 11: 0.5
+would have: 0.333333333333
+all time: 0.2
+RolePlaying: 0.000946073793756
+chose: 0.00283822138127
+Bandais yearly: 1.0
+still did: 1.0
+of working: 0.0277777777778
+<s> Games: 0.0232558139535
+Shotgun.: 0.000946073793756
+in its: 0.142857142857
+Xbox: 0.00283822138127
+Double: 0.000946073793756
+It also: 0.5
+and see: 0.0357142857143
+same platforms: 1.0
+meet: 0.000946073793756
+possible decrease: 0.5
+extent. </s>: 1.0
+strong: 0.000946073793756
+works on: 1.0
+should prepare: 0.5
+because its: 0.5
+and nonadjustable: 0.0357142857143
+the awards: 0.0133333333333
+American and: 1.0
+Gungeon: 0.000946073793756
+technical: 0.000946073793756
+Knight Titan: 1.0
+30: 0.000946073793756
+funded: 0.000946073793756
+Motoi: 0.000946073793756
+experience: 0.000946073793756
+decrease in: 1.0
+be viciously: 0.5
+made by: 1.0
+PC.: 0.00189214758751
+the First: 0.0133333333333
+Game award.: 0.0833333333333
+sold 1.19: 0.333333333333
+may hesitate: 0.5
+implement: 0.000946073793756
+options: 0.000946073793756
+thats: 0.000946073793756
+criticism: 0.000946073793756
+runnerup: 0.00189214758751
+named: 0.00189214758751
+that but...: 0.125
+generation.: 0.000946073793756
+not been: 0.333333333333
+Multiplayer Game: 1.0
+Readers: 0.000946073793756
+Microsoft Windows: 1.0
+Miyazaki: 0.00189214758751
+awards ceremony.: 0.333333333333
+giving the: 1.0
+the series: 0.0266666666667
+September 2015: 1.0
+Patterson chose: 1.0
+Eurogamer also: 1.0
+referred to: 1.0
+funded projects: 1.0
+In 2013: 0.2
+nose to: 1.0
+GameZone: 0.000946073793756
+market: 0.000946073793756
+Namco Bandais: 0.25
+Europe: 0.000946073793756
+use: 0.000946073793756
+Souls board: 0.0555555555556
+from: 0.00283822138127
+<s> QGames: 0.0232558139535
+would: 0.00283822138127
+Sound Design: 1.0
+placed fifth: 0.333333333333
+the runnerup: 0.0266666666667
+review.: 0.000946073793756
+game also: 0.0666666666667
+by: 0.00473036896878
+it for: 0.0909090909091
+going: 0.000946073793756
+consoles noting: 1.0
+it out: 0.0909090909091
+Miyazaki contemplated: 0.5
+current difficulty: 1.0
+Best Games: 0.0588235294118
+It: 0.00189214758751
+Features award: 1.0
+statement was: 1.0
+single player: 1.0
+more: 0.00189214758751
+Videogames. </s>: 1.0
+or carefully: 1.0
+to transform: 0.04
+both the: 1.0
+but it: 0.25
+on: 0.0132450331126
+level people: 0.5
+like that: 0.5
+Witcher 3: 1.0
+really sad: 1.0
+award: 0.00378429517502
+Integration: 0.000946073793756
+Miyazakis statement: 1.0
+making: 0.000946073793756
+market in: 1.0
+Best RPG: 0.176470588235
+Takeshi: 0.000946073793756
+Brad: 0.000946073793756
+quality of: 1.0
+and keyboard: 0.0714285714286
+In GameSpys: 0.2
+<s> One: 0.0232558139535
+not come: 0.333333333333
+chose Dark: 0.333333333333
+to Edge: 0.04
+me: 0.00189214758751
+everyone can: 0.5
+time for: 0.5
+early 2016.: 1.0
+<s> 1UP.com: 0.0232558139535
+is really: 0.285714285714
+GameSpot including: 1.0
+originally: 0.000946073793756
+on Microsoft: 0.0714285714286
+million units: 0.666666666667
+September: 0.000946073793756
+Enter the: 1.0
+Score: 0.000946073793756
+Video: 0.000946073793756
+can: 0.000946073793756
+December: 0.000946073793756
+rather difficult: 1.0
+game sold: 0.0666666666667
+mention as: 1.0
+2014. </s>: 1.0
+of Bandai: 0.0277777777778
+Awards on: 1.0
+year for: 1.0
+also commented: 0.2
+was licensed: 0.0909090909091
+stated: 0.000946073793756
+games. </s>: 1.0
+behind it.: 0.5
+<s> An: 0.0232558139535
+high: 0.000946073793756
+the games: 0.0266666666667
+Best Level: 0.0588235294118
+maintaining the: 1.0
+keyboard high: 0.5
+Monthlys: 0.000946073793756
+Digital: 0.000946073793756
+as shabby: 0.0909090909091
+made: 0.000946073793756
+April 2013: 0.5
+not that: 0.333333333333
+console game: 0.5
+hesitate: 0.000946073793756
+Lords: 0.000946073793756
+of consoles.: 0.0277777777778
+Bandai Namco: 0.333333333333
+360.: 0.000946073793756
+from a: 0.333333333333
+rather: 0.000946073793756
+have been: 0.333333333333
+than 5.4: 1.0
+Year. </s>: 1.0
+Developer FromSoftware: 1.0
+the Xbox: 0.0133333333333
+would be: 0.333333333333
+of the: 0.472222222222
+QGames Dylan: 1.0
+how: 0.00189214758751
+Miyazakis: 0.000946073793756
+2016.: 0.00189214758751
+IncGamers: 0.000946073793756
+3 and: 0.666666666667
+100 best: 0.5
+is considered: 0.142857142857
+yearly financial: 1.0
+to the: 0.08
+for us: 0.0833333333333
+more of: 0.5
+A: 0.00189214758751
+a console: 0.1
+plans: 0.000946073793756
+needed </s>: 1.0
+influenced: 0.000946073793756
+may: 0.00189214758751
+board game: 1.0
+Bandai claimed: 0.333333333333
+<s> In: 0.116279069767
+Bandais: 0.000946073793756
+to Die: 0.04
+One and: 0.5
+Weve: 0.000946073793756
+Most Rewarding: 1.0
+Takeshi Miyazoe: 1.0
+the best: 0.0266666666667
+prepare another: 1.0
+a: 0.00946073793756
+that the: 0.25
+persistence has: 1.0
+a single: 0.1
+Fallen Salt: 1.0
+game onto: 0.0666666666667
+PC market: 0.111111111111
+Community: 0.000946073793756
+One: 0.00189214758751
+Expo: 0.00189214758751
+keymapping and: 1.0
+people may: 0.333333333333
+expect from: 1.0
+Rock Paper: 1.0
+title: 0.000946073793756
+Developer: 0.000946073793756
+RPG award.: 0.666666666667
+bad but: 1.0
+<s> GameZone: 0.0232558139535
+come with: 1.0
+<s> FromSoftware: 0.0232558139535
+Hong: 0.000946073793756
+comments made: 1.0
+it would: 0.0454545454545
+Souls is: 0.111111111111
+during: 0.00189214758751
+including: 0.000946073793756
+Multiplayer: 0.000946073793756
+the PC: 0.0533333333333
+have read: 0.333333333333
+ever promised: 0.5
+the PC.: 0.0133333333333
+Game of: 0.5
+still: 0.000946073793756
+Director Hidetaka: 1.0
+its: 0.00283822138127
+that everyone: 0.125
+this works: 0.5
+Original Score: 1.0
+some: 0.000946073793756
+The 15: 0.0909090909091
+March: 0.00189214758751
+about whether: 0.333333333333
+enough to: 1.0
+was titled: 0.0909090909091
+the Year: 0.04
+of Excellence: 0.0277777777778
+making it: 1.0
+of experience: 0.0277777777778
+favorable review.: 1.0
+Director: 0.000946073793756
+platform: 0.000946073793756
+Games said: 0.333333333333
+had sold: 1.0
+Community Choice: 1.0
+and chose: 0.0357142857143
+said to: 1.0
+2015: 0.00283822138127
+lack of: 1.0
+game of: 0.133333333333
+main: 0.000946073793756
+easier: 0.000946073793756
+2013: 0.00189214758751
+2012: 0.00189214758751
+it.: 0.000946073793756
+20 highest: 1.0
+Video Game: 1.0
+than: 0.000946073793756
+easier difficulty: 1.0
+a PC: 0.1
+I should: 0.333333333333
+game had: 0.0666666666667
+announced in: 0.333333333333
+mention: 0.000946073793756
+cutting: 0.000946073793756
+Spy named: 1.0
+Bandai: 0.00283822138127
+subtitled: 0.000946073793756
+seventh generation: 1.0
+not: 0.00283822138127
+sold 2.37: 0.333333333333
+one: 0.000946073793756
+Sakuraba: 0.000946073793756
+maintaining: 0.000946073793756
+highest funded: 1.0
+the seventh: 0.0266666666667
+priority was: 1.0
+an overall: 0.25
+per second: 1.0
+sequel subtitled: 0.5
+chose it: 0.666666666667
+announced on: 0.333333333333
+One of: 0.5
+how to: 0.5
+Greatest Videogames.: 1.0
+Edge Brian: 0.5
+Brad Muir: 1.0
+Sif.: 0.000946073793756
+and Xbox: 0.0714285714286
+25: 0.000946073793756
+by the: 0.2
+Electronic Gaming: 0.333333333333
+raised: 0.000946073793756
+higher: 0.000946073793756
+the strong: 0.0133333333333
+referred: 0.000946073793756
+the 20: 0.0133333333333
+the new: 0.0133333333333
+IncGamers also: 1.0
+everyone: 0.00189214758751
+financial: 0.000946073793756
+PCspecific: 0.000946073793756
+it one: 0.0454545454545
+generation: 0.00189214758751
+March 2012.: 0.5
+also placed: 0.2
+A Dark: 0.5
+Anyone: 0.000946073793756
+Gaming Monthlys: 1.0
+use of: 1.0
+certain extent.: 1.0
+expect: 0.000946073793756
+working on: 1.0
+our main: 0.333333333333
+our: 0.00283822138127
+nominating it: 1.0
+special: 0.000946073793756
+really: 0.00189214758751
+titled the: 1.0
+2.37: 0.000946073793756
+gamers: 0.00189214758751
+version by: 0.5
+was announced: 0.181818181818
+number of: 1.0
+dont worry: 1.0
+for whom: 0.0833333333333
+content: 0.000946073793756
+complete the: 0.5
+Year.: 0.00283822138127
+which sold: 1.0
+due to: 1.0
+7: 0.000946073793756
+PC but: 0.111111111111
+honorable: 0.000946073793756
+Namco assured: 0.25
+15 Best: 1.0
+issue: 0.000946073793756
+adding an: 1.0
+announced: 0.00283822138127
+as Game: 0.181818181818
+raised more: 1.0
+working: 0.000946073793756
+assured: 0.000946073793756
+time list.: 0.5
+This: 0.00283822138127
+2016 Dark: 1.0
+million: 0.00283822138127
+seventh: 0.00189214758751
+to a: 0.04
+Excellence in: 1.0
+United States: 1.0
+difficulty: 0.00378429517502
+reason: 0.000946073793756
+expanded content: 1.0
+high resolution: 1.0
+the Most: 0.0133333333333
+does not: 1.0
+North: 0.000946073793756
+wanted: 0.000946073793756
+updated version: 1.0
+<s> Electronic: 0.0232558139535
+love.In: 0.000946073793756
+producers: 0.000946073793756
+their neckbeard: 0.5
+out and: 0.5
+Titan: 0.000946073793756
+messages: 0.00189214758751
+Brian Hong: 1.0
+the criticism: 0.0133333333333
+nominating: 0.000946073793756
+on April: 0.0714285714286
+difficult and: 0.5
+Excellence: 0.000946073793756
+for this: 0.0833333333333
+onto: 0.000946073793756
+Eric: 0.000946073793756
+<s> We: 0.0232558139535
+allconsuming: 0.000946073793756
+PC Gamers: 0.111111111111
+features: 0.000946073793756
+Prepare: 0.000946073793756
+First Sin: 1.0
+of it: 0.0277777777778
+special issue: 1.0
+on the: 0.285714285714
+number: 0.000946073793756
+Nioh.citation needed: 1.0
+Fight: 0.000946073793756
+Brian: 0.000946073793756
+gave Dark: 0.111111111111
+thislets: 0.000946073793756
+list.: 0.00283822138127
+minimal that: 1.0
+were PCspecific: 0.333333333333
+another: 0.000946073793756
+face.: 0.000946073793756
+difficulty that: 0.25
+by March: 0.2
+Boss Fight: 0.5
+quality: 0.000946073793756
+PC. </s>: 1.0
+passes: 0.000946073793756
+but our: 0.25
+360. </s>: 1.0
+announced at: 0.333333333333
+their: 0.00189214758751
+The Witcher: 0.0909090909091
+on GamesRadars: 0.0714285714286
+Eric L.: 1.0
+Online Features: 1.0
+priority: 0.000946073793756
+the game: 0.106666666667
+and should: 0.0357142857143
+people wanted: 0.333333333333
+December 7: 1.0
+get it: 0.75
+statement: 0.000946073793756
+Game Revolution: 0.0833333333333
+expected. </s>: 1.0
+Anyone who: 1.0
+and Nioh.citation: 0.0357142857143
+Informer gave: 1.0
+2012 for: 0.5
+GameSpys review: 1.0
+too: 0.000946073793756
+ceremony. </s>: 1.0
+know there: 1.0
+4. </s>: 1.0
+Edition does: 1.0
+of a: 0.111111111111
+that: 0.00756859035005
+Hong of: 1.0
+there were: 1.0
+Scholar of: 1.0
+that while: 0.125
+GamesRadars: 0.000946073793756
+the Electronic: 0.0266666666667
+and use: 0.0357142857143
+Edge: 0.00189214758751
+favorable: 0.000946073793756
+Gungeon The: 1.0
+2012.: 0.000946073793756
+This is: 0.333333333333
+released in: 0.25
+11: 0.000946073793756
+units in: 0.5
+see how: 1.0
+were no: 0.333333333333
+Best Developer: 0.0588235294118
+but with: 0.25
+overall favorable: 1.0
+it on: 0.0909090909091
+version of: 0.5
+Edition: 0.000946073793756
+Prepare to: 1.0
+commented on: 1.0
+as possible: 0.0909090909091
+thislets just: 1.0
+were: 0.00283822138127
+Souls the: 0.166666666667
+of all: 0.0555555555556
+keyboard controls: 0.5
+by Dark: 0.2
+Namco: 0.00378429517502
+and: 0.0264900662252
+sad to: 1.0
+Souls II: 0.222222222222
+2014: 0.00189214758751
+love.In September: 1.0
+whom persistence: 1.0
+platform we: 1.0
+PlayStation 4.: 0.333333333333
+for the: 0.583333333333
+<s> It: 0.046511627907
+third title: 1.0
+Alienation Lords: 1.0
+sad: 0.00189214758751
+Destiny Alienation: 1.0
+say: 0.000946073793756
+out: 0.00189214758751
+the same: 0.0133333333333
+have: 0.00283822138127
+citing the: 1.0
+nominated it: 1.0
+USgamers: 0.000946073793756
+<s> Namco: 0.046511627907
+and for: 0.0357142857143
+Edge magazine: 0.5
+fast as: 1.0
+and get: 0.0357142857143
+criticism of: 1.0
+Amid: 0.000946073793756
+content was: 1.0
+Patterson: 0.000946073793756
+Sakuraba Best: 1.0
+Best Trailer: 0.0588235294118
+Daily Telegraph: 1.0
+GameTrailers gave: 1.0
+also: 0.00473036896878
+up to: 0.5
+QGames: 0.000946073793756
+RPG: 0.00283822138127
+expected.: 0.000946073793756
+FromSoftware and: 0.333333333333
+so: 0.000946073793756
+problems were: 1.0
+some may: 1.0
+Hidetaka: 0.00189214758751
+persistence: 0.000946073793756
+States and: 1.0
+In 2015: 0.2
+In 2014: 0.2
+Design Best: 1.0
+Since: 0.000946073793756
+in early: 0.142857142857
+is going: 0.142857142857
+mouse and: 1.0
+Knight: 0.000946073793756
+who: 0.000946073793756
+limit of: 1.0
+most: 0.000946073793756
+3 Wild: 0.333333333333
+Games: 0.00283822138127
+saying </s>: 0.5
+Enter: 0.000946073793756
+The: 0.0104068117313
+and Europe: 0.0357142857143
+review. </s>: 1.0
+stuff like: 1.0
+Microsoft: 0.000946073793756
+Sanctuary: 0.000946073793756
+II would: 0.25
+while also: 0.333333333333
+on PC: 0.142857142857
+and Double: 0.0357142857143
+An updated: 1.0
+stated that: 1.0
+we ignored: 0.5
+sold it: 0.333333333333
+2015 the: 0.333333333333
+resolution but: 0.5
+up Dark: 0.5
+<s> Game: 0.046511627907
+to make: 0.08
+the Fallen: 0.0133333333333
+in Japan: 0.142857142857
+review: 0.000946073793756
+fact: 0.00189214758751
+saying: 0.00189214758751
+new director: 1.0
+11 2014: 1.0
+PlayStation 3: 0.666666666667
+Kickststarter: 0.000946073793756
+it test: 0.0454545454545
+at the: 1.0
+game placed: 0.0666666666667
+hesitate to: 1.0
+2016: 0.000946073793756
+titled: 0.000946073793756
+nominated: 0.000946073793756
+1.19 million: 1.0
+The game: 0.181818181818
+much time: 1.0
+has not: 1.0
+who passes: 1.0
+should have: 0.5
+tire: 0.000946073793756
+carefully: 0.00189214758751
+time. </s>: 1.0
+publisher Namco: 1.0
+and higher: 0.0357142857143
+European: 0.000946073793756
+producers of: 1.0
+We: 0.000946073793756
+on a: 0.0714285714286
+spite: 0.000946073793756
+<s> Famitsu: 0.0232558139535
+main priority: 1.0
+keymapping: 0.000946073793756
+fans: 0.00189214758751
+controls: 0.000946073793756
+should: 0.00189214758751
+from the: 0.333333333333
+to try: 0.04
+send all: 1.0
+the messages: 0.0266666666667
+games ever: 0.25
+as well: 0.0909090909091
+Digital Spy: 1.0
+Guys: 0.000946073793756
+first: 0.00189214758751
+you would: 1.0
+the Gungeon: 0.0133333333333
+get: 0.00378429517502
+promised to: 1.0
+issue The: 1.0
+influenced by: 1.0
+overall: 0.000946073793756
+Windows PlayStation: 1.0
+fans during: 0.5
+into allconsuming: 1.0
+generation. </s>: 1.0
+fifth on: 1.0
+difficult games.: 0.5
+Alienation: 0.000946073793756
+the award: 0.0133333333333
+report: 0.000946073793756
+it Weve: 0.0454545454545
+the next: 0.0133333333333
+series Dark: 0.5
+Features: 0.000946073793756
+Best Sound: 0.0588235294118
+Best Director: 0.0588235294118
+Wild: 0.000946073793756
+been influenced: 0.5
+Xbox 360: 0.333333333333
+all time.: 0.2
+projects of: 1.0
+and Sanctuary: 0.0357142857143
+have taken: 0.333333333333
+<s> IncGamers: 0.0232558139535
+Steamforged: 0.000946073793756
+to implement: 0.04
+bad: 0.000946073793756
+stuff: 0.000946073793756
+L. </s>: 1.0
+make it: 0.5
+and carefully: 0.0357142857143
+release: 0.000946073793756
+through: 0.000946073793756
+PC on: 0.111111111111
+campaign raised: 1.0
+Postrelease the: 1.0
+Level Design: 1.0
+ignored: 0.000946073793756
+mistranslated: 0.000946073793756
+Salt and: 1.0
+of Dark: 0.0277777777778
+This fact: 0.666666666667
+award.: 0.00473036896878
+frame: 0.000946073793756
+keyboard: 0.00189214758751
+claimed Miyazakis: 1.0
+Editors Choice: 1.0
+it as: 0.0909090909091
+am thinking: 1.0
+see: 0.000946073793756
+also received: 0.2
+considered: 0.000946073793756
+2013 that: 0.5
+for release: 0.0833333333333
+TeamXbox gave: 1.0
+and Game: 0.0714285714286
+the quality: 0.0133333333333
+best: 0.00378429517502
+Sin released: 1.0
+said: 0.000946073793756
+console generation.: 0.5
+a certain: 0.1
+to sound: 0.04
+placed: 0.00283822138127
+onto the: 1.0
+all gamers: 0.4
+named Dark: 1.0
+but... </s>: 1.0
+Famitsu gave: 1.0
+Rock: 0.000946073793756
+Choice: 0.00283822138127
+PC: 0.0085146641438
+behind: 0.00189214758751
+Miyazoe responded: 1.0
+apathy: 0.000946073793756
+the PlayStation: 0.0133333333333
+ever list.: 0.5
+the level: 0.0133333333333
+fact is: 1.0
+Lords of: 1.0
+award and: 0.5
+Souls Enter: 0.0555555555556
+mistranslated and: 1.0
+we: 0.00189214758751
+Productions Brad: 1.0
+difficulty of: 0.25
+<s> Postrelease: 0.0232558139535
+Gaming: 0.000946073793756
+30 frames: 1.0
+sold: 0.00283822138127
+GameSpys: 0.000946073793756
+Europe by: 1.0
+game was: 0.133333333333
+GameTrailers: 0.000946073793756
+2014 Edge: 0.5
+<s> A: 0.046511627907
+awards: 0.00283822138127
+been enough: 0.5
+viciously hard.: 1.0
+complete or: 0.5
+I am: 0.666666666667
+higher frame: 1.0
+during the: 1.0
+come: 0.000946073793756
+received: 0.000946073793756
+meet a: 1.0
+responded to: 1.0
+licensed to: 1.0
+2000 list.: 1.0
+passes up: 1.0
+a possible: 0.1
+awards. </s>: 1.0
+15: 0.000946073793756
+about thislets: 0.333333333333
+the lack: 0.0133333333333
+possible.: 0.000946073793756
+port was: 0.333333333333
+games: 0.00378429517502
+The PC: 0.0909090909091
+carefully send: 1.0
+Souls include: 0.0555555555556
+worry about: 1.0
+as possible.: 0.0909090909091
+was more: 0.0909090909091
+yearly: 0.000946073793756
+among: 0.000946073793756
+it up: 0.0454545454545
+of 30: 0.0277777777778
+did our: 0.5
+award. </s>: 1.0
+Best RolePlaying: 0.0588235294118
+get the: 0.25
+Revolution gave: 1.0
+as the: 0.272727272727
+the difficulty: 0.0133333333333
+Telegraph: 0.000946073793756
+poor mouse: 1.0
+Boss: 0.00189214758751
+<s> The: 0.162790697674
+100: 0.00189214758751
+ceremony.: 0.000946073793756
+everyone complete: 0.5
+while some: 0.333333333333
+Best Integration: 0.0588235294118
+also nominating: 0.2
+cutting off: 1.0
+5.4 million: 1.0
+FromSoftware announced: 0.333333333333
+from GameSpot: 0.333333333333
+director to: 0.5
+even with: 1.0
+was referred: 0.0909090909091
+going to: 1.0
+strong petition: 1.0
+much: 0.000946073793756
+dont: 0.000946073793756
+expected: 0.000946073793756
+games.: 0.000946073793756
+in 2016.: 0.142857142857
+originally there: 1.0
+board: 0.000946073793756
+gamers the: 1.0
+ignored it: 1.0
+among the: 1.0
+Amid rumors: 1.0
+<s> Its: 0.0232558139535
+publisher: 0.000946073793756
+<s> Dark: 0.046511627907
+Award of: 1.0
+test it: 1.0
+Postrelease: 0.000946073793756
+new: 0.000946073793756
+1UP.com: 0.000946073793756
+the magazines: 0.0133333333333
+taken too: 1.0
+worldwide. </s>: 1.0
+Greatest: 0.000946073793756
+April 25: 0.5
+it an: 0.0909090909091
+million making: 0.333333333333
+sound: 0.000946073793756
+game because: 0.0666666666667
+has: 0.000946073793756
+Souls Prepare: 0.0555555555556
+360 and: 1.0
+contemplated: 0.000946073793756
+port of: 0.333333333333
+its 2012: 0.333333333333
+360: 0.000946073793756
+awards of: 0.333333333333
+while: 0.00283822138127
+petition: 0.000946073793756
+we still: 0.5
+Games which: 0.333333333333
+the Best: 0.106666666667
+Level: 0.000946073793756
+and was: 0.0357142857143
+director Hidetaka: 0.5
+Monthlys Eric: 1.0
+ActionAdventure: 0.000946073793756
+Sound: 0.000946073793756
+thats all: 1.0
+L.: 0.000946073793756
+frames per: 1.0
+that we: 0.125
+whether I: 1.0
+is: 0.00662251655629
+second poor: 1.0
+Titan Souls: 1.0
+it: 0.0208136234626
+fans even: 0.5
+player: 0.000946073793756
+generation of: 1.0
+in: 0.00662251655629
+claimed: 0.000946073793756
+Hunt and: 1.0
+plans to: 1.0
+mouse: 0.00189214758751
+game and: 0.0666666666667
+worry: 0.000946073793756
+comments: 0.000946073793756
+Miyazaki Best: 0.5
+because people: 0.5
+messages behind: 1.0
+spite their: 1.0
+make: 0.00189214758751
+which: 0.000946073793756
+same: 0.000946073793756
+features like: 1.0
+placed first: 0.666666666667
+Games Since: 0.333333333333
+to me: 0.08
+an honorable: 0.25
+on March: 0.0714285714286
+North American: 1.0
+units: 0.00189214758751
+the technical: 0.0133333333333
+an Award: 0.25
+resolution and: 0.5
+game an: 0.0666666666667
+experience of: 1.0
+difficult: 0.00189214758751
+Eurogamer: 0.000946073793756
+an easier: 0.25
+difficulty and: 0.25
+but the: 0.25
+Best Original: 0.0588235294118
+saying Dark: 0.5
+2014 for: 0.5
+I: 0.00283822138127
+RPGs: 0.000946073793756
+a publisher: 0.1
+Sanctuary Shovel: 1.0
+the Editors: 0.0133333333333
+director: 0.00189214758751
+the Game: 0.0133333333333
+best to: 0.25
+hard. </s>: 1.0
+II: 0.00378429517502
+An: 0.000946073793756
+it and: 0.0454545454545
+play.: 0.000946073793756
+possible. </s>: 1.0
+also gave: 0.2
+single: 0.000946073793756
+their nose: 0.5
+III: 0.000946073793756
+Game Awards: 0.0833333333333
+to be: 0.04
+off: 0.000946073793756
+Namco Bandai: 0.5
+Game: 0.0113528855251
+Fights awards: 1.0
+of games: 0.0277777777778
+Muir: 0.000946073793756
+well: 0.000946073793756
+Souls: 0.0170293282876
+Sif. </s>: 1.0
+States: 0.000946073793756
+best game: 0.5
+and PlayStation: 0.0357142857143
+to meet: 0.04
+Bandai decision: 0.333333333333
+III was: 1.0
+In: 0.00473036896878
+the: 0.0709555345317
+games director: 0.25
+stating: 0.000946073793756
+include Destiny: 1.0
+while maintaining: 0.333333333333
+<s> Patterson: 0.0232558139535
+Shotgun. </s>: 1.0
+out as: 0.5
+United: 0.000946073793756
+PC game: 0.111111111111
+Videogames.: 0.000946073793756
+just: 0.000946073793756
+Entertainment Expo: 1.0
+The 100: 0.181818181818
+Editors: 0.000946073793756
+and European: 0.0357142857143
+review the: 1.0
+USgamers The: 1.0
+behind our: 0.5
+through Kickststarter: 1.0
+extent.: 0.000946073793756
+Witcher: 0.000946073793756
+</s>: 0.0406811731315
+yet: 0.000946073793756
+Hunt: 0.000946073793756
+by Rock: 0.2
+adding: 0.000946073793756
+Wild Hunt: 1.0
+console: 0.00189214758751
+campaign: 0.000946073793756
+Expo E3: 0.5
+thinking: 0.00189214758751
+first on: 1.0
+had: 0.000946073793756
+Score Motoi: 1.0
+Shovel Knight: 1.0
+initially tire: 1.0
+Its not: 1.0
+RolePlaying Game: 1.0
+nonadjustable resolution: 1.0
+Game award: 0.0833333333333
+all FromSoftware: 0.2
+as fast: 0.181818181818
+Since 2000: 1.0
+gave: 0.0085146641438
+Souls as: 0.0555555555556
+Rewarding Game: 1.0
+its console: 0.333333333333
+the Year.: 0.04
+read: 0.000946073793756
+Die: 0.000946073793756
+award while: 0.25
+Entertainment: 0.00189214758751
+possible: 0.00189214758751
+well as: 1.0
+early: 0.000946073793756
+game: 0.0141911069063
+may initially: 0.5
+Choice and: 0.333333333333
+know: 0.000946073793756
+consoles. </s>: 1.0
+to play.: 0.04
+in the: 0.285714285714
+FromSoftware: 0.00283822138127
+Fallen: 0.000946073793756
+to deliver.: 0.04
+projects: 0.000946073793756
+difficulty level: 0.25
+us to: 1.0
+is so: 0.142857142857
+like: 0.00189214758751
+Original: 0.000946073793756
+PC by: 0.111111111111
+Nioh.citation: 0.000946073793756
+petition from: 1.0
+titles released: 1.0
+GameSpot: 0.000946073793756
+Sin: 0.000946073793756
+nonadjustable: 0.000946073793756
+transform: 0.000946073793756
+nose: 0.000946073793756
+Motoi Sakuraba: 1.0
+to Steamforged: 0.04
+Spike Video: 1.0
+decrease: 0.000946073793756
+works: 0.000946073793756
+Fine: 0.000946073793756
+stating Dark: 1.0
+The Daily: 0.0909090909091
+because: 0.00189214758751
+shabby: 0.000946073793756
+noting: 0.000946073793756
+people: 0.00283822138127
+one of: 1.0
+Online: 0.000946073793756
+was praised: 0.0909090909091
+platforms: 0.000946073793756
+Rewarding: 0.000946073793756
+In 2016: 0.2
+rumors of: 1.0
+Informer: 0.000946073793756
+next year: 1.0
+too much: 1.0
+it. </s>: 1.0
+Famitsu: 0.000946073793756
+both: 0.000946073793756
+for: 0.0113528855251
+yet to: 1.0
+to as: 0.04
+consoles.: 0.000946073793756
+decision: 0.000946073793756
+sequel Dark: 0.5
+We did: 1.0
+per: 0.000946073793756
+Choice awards.: 0.333333333333
+does: 0.000946073793756
+Gamers Best: 1.0
+Best Multiplayer: 0.0588235294118
+wellengineered PC: 1.0
+PC platform: 0.111111111111
+the North: 0.0133333333333
+award for: 0.25
+runnerup for: 1.0
+Game Informer: 0.0833333333333
+minimal: 0.000946073793756
+is rather: 0.142857142857
+Guys dont: 1.0
+be: 0.00189214758751
+Integration of: 1.0
+magazines special: 1.0
+Muir chose: 1.0
+Souls placed: 0.0555555555556
+Its: 0.000946073793756
+neckbeard of: 1.0
+and nominated: 0.0357142857143
+Daily: 0.000946073793756
+face. </s>: 1.0
+Kickststarter in: 1.0
+Fight Sif.: 1.0
+Xbox 360.: 0.333333333333
+4.: 0.000946073793756
+awards from: 0.333333333333
+level saying: 0.5
+released: 0.00378429517502
+awards.: 0.00189214758751
+of people: 0.0277777777778
+about: 0.00283822138127
+Revolution: 0.000946073793756
+by saying: 0.2
+contemplated adding: 1.0
+<s> This: 0.046511627907
+of: 0.0340586565752
+transform apathy: 1.0
+magazine: 0.000946073793756
+Paper: 0.000946073793756
+European fans: 1.0
+release on: 1.0
+Japan: 0.000946073793756
+Souls topped: 0.0555555555556
+or: 0.000946073793756
+Best: 0.0160832544939
+the mouse: 0.0133333333333
+that originally: 0.125
+can complete: 1.0
+Japan is: 1.0
+Trailer and: 1.0
+deliver.: 0.000946073793756
+so minimal: 1.0
+into: 0.000946073793756
+Boss Fights: 0.5
+neckbeard: 0.000946073793756
+due: 0.000946073793756
+The campaign: 0.0909090909091
+Shovel: 0.000946073793756
+magazines: 0.000946073793756
+been: 0.00189214758751
+apathy into: 1.0
+frames: 0.000946073793756
+financial report: 1.0
+would expect: 0.333333333333
+next: 0.000946073793756
+initially: 0.000946073793756
+Expo that: 0.5
+Destiny: 0.000946073793756
+no plans: 1.0
+rate stuff: 1.0
+frame rate: 1.0
+prepare: 0.000946073793756
+Most: 0.000946073793756
+RPGs of: 1.0
+there: 0.00189214758751
+sound bad: 1.0
+fast: 0.00189214758751
+player for: 1.0
+Die Edition: 1.0
+praised giving: 1.0
+with the: 1.0
+Telegraph gave: 1.0
+was: 0.0104068117313
+2.37 million: 1.0
+third: 0.000946073793756
+of its: 0.0277777777778
+complete: 0.00189214758751
+enough: 0.000946073793756
+expected to: 1.0
+and Readers: 0.0357142857143
+sequel: 0.00189214758751
+20: 0.000946073793756
+but: 0.00378429517502
+Dylan: 0.000946073793756
+considered to: 1.0
+taken: 0.000946073793756
+games consoles: 0.25
+Year award.: 0.666666666667
+is cutting: 0.142857142857
+honorable mention: 1.0
+highest: 0.000946073793756
+with: 0.00283822138127
+to get: 0.08
+Trailer: 0.000946073793756
+more than: 0.5
+assured fans: 1.0
+Choice Game: 0.333333333333
+game while: 0.0666666666667
+viciously: 0.000946073793756
+whether: 0.000946073793756
+Paper Shotgun.: 1.0
+up: 0.00189214758751
+us: 0.000946073793756
+The problems: 0.0909090909091
+including both: 1.0
+units worldwide.: 0.5
+Productions: 0.000946073793756
+limit: 0.000946073793756
+how this: 0.5
+Scholar: 0.000946073793756
+Electronic: 0.00283822138127
+PC version: 0.111111111111
+like keymapping: 0.5
+ActionAdventure award: 1.0
+Year awards.: 0.333333333333
+Design: 0.00189214758751
+certain: 0.000946073793756
+important titles: 1.0
+year: 0.000946073793756
+am: 0.00189214758751
+list. </s>: 1.0
+an: 0.00378429517502
+of Best: 0.0277777777778
+best games: 0.25
+as: 0.0104068117313
+<s> TeamXbox: 0.0232558139535
+promised: 0.000946073793756
+decision to: 1.0
+noting that: 1.0
+Best Boss: 0.117647058824
+our difficult: 0.333333333333
+series due: 0.5
+the producers: 0.0133333333333
+whom: 0.000946073793756
+2013 Digital: 0.5
+rumors: 0.000946073793756
+hard.: 0.000946073793756
+no: 0.000946073793756
+thinking about: 1.0
+it but: 0.0454545454545
+say Guys: 1.0
+topped: 0.000946073793756
+Dark: 0.0160832544939
+games limit: 0.25
+platforms as: 1.0
+of Online: 0.0277777777778
+II was: 0.5
+but...: 0.000946073793756
+test: 0.000946073793756
+try to: 1.0
+you: 0.000946073793756
+a wellengineered: 0.1
+worldwide.: 0.000946073793756
+poor: 0.000946073793756
+Award: 0.000946073793756
+the Spike: 0.0133333333333
+possible because: 0.5
+allconsuming love.In: 1.0
+Windows: 0.000946073793756
+Miyazoe: 0.000946073793756
+Year: 0.00283822138127
+problems: 0.000946073793756
+reason is: 1.0
+2016. </s>: 1.0
+that Dark: 0.125
+April: 0.00189214758751
+wellengineered: 0.000946073793756
+important: 0.000946073793756
+the United: 0.0133333333333
+2015 Dark: 0.333333333333
+7 2012: 1.0
+a face.: 0.1
+people expected.: 0.333333333333
+2014.: 0.000946073793756
+needed: 0.000946073793756
+Game Best: 0.0833333333333
+Fine Productions: 1.0
+a number: 0.1
+Cuthbert: 0.000946073793756
+The third: 0.0909090909091
+Spike: 0.000946073793756
+controls and: 1.0
+Fights: 0.000946073793756
+consoles: 0.000946073793756
+American: 0.000946073793756
+responded: 0.000946073793756
+Steamforged Games: 1.0
+deliver. </s>: 1.0
+2000: 0.000946073793756
+25 2014.: 1.0
+TeamXbox: 0.000946073793756
+it through: 0.0454545454545
+the sequel: 0.0133333333333
+time: 0.00189214758751
+at: 0.000946073793756
+shabby citing: 1.0
+resolution: 0.00189214758751
+gave it: 0.666666666667
+implement it: 1.0

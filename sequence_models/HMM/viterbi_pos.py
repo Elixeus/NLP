@@ -2,8 +2,6 @@ import numpy as np
 import pandas as pd
 
 
-# TODO: update the numpy matrix representation to a pandas representation so that the observation sequence (words) are shown explicitly,
-#       instead of using numbered representations
 def viterbi(A, B, observ):
     """Hidden Markov models need to solve 3 fundamental problems:
 1. For a given HMM model M and an observation sequence O, what is the likelihood of P(O|M);

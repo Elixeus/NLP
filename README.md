@@ -9,7 +9,7 @@ I'm interested in learning different NLP models and implementing them in Python.
 ## Sequence models
 ### HMM
  
- - [speech and language processing new edition chap 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+ - [speech and language processing 3rd edition chap 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
  
 ### MaxEnt
  
